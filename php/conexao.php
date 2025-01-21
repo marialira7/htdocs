@@ -8,7 +8,7 @@ session_start(); // Inicia a sessão
 // Dados para conexão com o banco de dados
 $localhost = "localhost";
 $user = "root";
-$passw = "";
+$passw = "root";
 $banco = "shelfshare";
 global $pdo; // Variável global para ser usada em qualquer lugar do código
 
